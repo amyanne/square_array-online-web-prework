@@ -5,5 +5,5 @@ def square_array(array)
     binding.pry
     squared = numbers ** 2
   end
-return  squared
+squared
 end
